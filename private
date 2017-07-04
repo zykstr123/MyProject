@@ -37,8 +37,7 @@ hosts 中加入：
 192.168.0.76 adx76
 192.168.0.77 adx77
 -------------------------------------------
-公司git     http://git.chinamobiad.com    -u zhouyankai -p zhoustr1
-公司svn：         -u zhouyankai   -p zhouyankai_ZzCm_2017
+
 http://192.168.0.117:18080/svn/client/server/AdPlatform/doc/DSP广告接入文档
 http://192.168.0.117:18080/svn/client/server/AdPlatform/doc/开发
 http://192.168.0.117:18080/svn/client/server/AdPlatform/source/ssp
