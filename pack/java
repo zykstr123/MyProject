@@ -1,0 +1,3 @@
+Thread -> 存自己的ThreadLocalMap(一一对应)
+Thread -> 多个ThreadLocal(ThreadLocal有个threadLocalHashCode作为key放入ThreadLocalMap，这个key自增的，
+nextHashCode.getAndAdd(HASH_INCREMENT)，其中nextHashCode是个AtomicInteger，HASH_INCREMENT 是个常量 0x61c88647)
